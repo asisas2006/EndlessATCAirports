@@ -3,7 +3,7 @@
 
 
 [airspace]
-radius = 100
+radius = 200
 elevation = 0
 floor = 3000
 descendaltitude = 10000
