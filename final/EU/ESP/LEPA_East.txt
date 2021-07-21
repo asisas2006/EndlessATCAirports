@@ -1,7 +1,9 @@
 # Palma de Mallorca (LEPA) Airport East Configuration by asisas2006
+# V0.1 Added all Stars, FIXes and VORes
+
 
 [airspace]
-radius = 200
+radius = 100
 elevation = 0
 floor = 3000
 descendaltitude = 10000
