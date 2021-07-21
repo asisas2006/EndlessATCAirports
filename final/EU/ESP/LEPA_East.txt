@@ -1,7 +1,7 @@
 # Palma de Mallorca (LEPA) Airport East Configuration by asisas2006
 
 [airspace]
-radius = 100
+radius = 200
 elevation = 0
 floor = 3000
 descendaltitude = 10000
